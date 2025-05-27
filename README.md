@@ -1,20 +1,4 @@
-# sv
-
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
+## Developing / Opening Project
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
@@ -25,14 +9,16 @@ npm run dev
 npm run dev -- --open
 ```
 
-## Building
+## Features
 
-To create a production version of your app:
+1. Charts Detail Pemantauan
+![Cursor_and_mertani_vercel_app_pemantauan](https://github.com/user-attachments/assets/5dc3beca-8c77-4088-b750-d7001f1918ab)
 
-```bash
-npm run build
-```
+![mertani_vercel_app_pemantauan](https://github.com/user-attachments/assets/b523770f-6f85-4985-8aff-7775be0d160b)
 
-You can preview the production build with `npm run preview`.
+3. Informasi Device
+![mertani_vercel_app_informasi](https://github.com/user-attachments/assets/c1a3edc6-f377-4eff-8f50-69b398890709)
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+4. CRUD Sensor Device
+![mertani_vercel_app_sensor](https://github.com/user-attachments/assets/2b2c1c38-9046-4a08-90eb-88702317488c)
+
